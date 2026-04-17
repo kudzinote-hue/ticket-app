@@ -1,0 +1,34 @@
+{
+  "tickets": [
+    {
+      "id": "8b43ea4b-2c27-411e-8799-841614ab1092",
+      "title": "czcvxc",
+      "description": "xcvxcv",
+      "user": "xcvxcv",
+      "timestamp": "2026-04-17T06:55:58.946Z",
+      "category": "Other",
+      "priority": "Medium",
+      "suggestedResponse": "Thank you for your ticket. Our team will review it and respond within 24 hours."
+    },
+    {
+      "id": "200f800f-a0ea-4e7f-954d-d8a5f5865ce3",
+      "title": "uyfu",
+      "description": "I have an IT issue",
+      "user": "qe§13",
+      "timestamp": "2026-04-17T06:56:43.602Z",
+      "category": "Other",
+      "priority": "Medium",
+      "suggestedResponse": "Thank you for your ticket. Our team will review it and respond within 24 hours."
+    },
+    {
+      "id": "0bb6b2fc-1614-48e3-b739-d941fab3136c",
+      "title": "fdhdfh",
+      "description": "dfhdh",
+      "user": "dfhdfh",
+      "timestamp": "2026-04-17T07:00:48.519Z",
+      "category": "Access",
+      "priority": "Medium",
+      "suggestedResponse": "Thank you for your ticket. Our team will review it and respond within 24 hours."
+    }
+  ]
+}
